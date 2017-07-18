@@ -7,3 +7,4 @@ tup4=((1,2),(7,8),(10,11))
 print ("tup1[0]: ", tup1[0])
 print ("tup2[1:5]: ", tup2[1:5])
 print("tup4=",tup4[0:len(tup4)])
+
